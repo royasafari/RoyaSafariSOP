@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SOP</title>
+    <link rel="stylesheet" href="style.css">
 
-You can use the [editor on GitHub](https://github.com/royasafari/SOP.royasafari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<div>
+    <span>بسم الله الرحمن الرحیم</span>
+    <span>انگيزه نامه</span>
+   آخر دبیرستان همه ی درگیری ذهنیم این بود که در آینده چه شغلی میتونه بیشتر برام
+جذاب باشه برای همین  مدتی زندگی افراد با شغل های متفاوت رو زیر نظر گرفتم و
+چقدر زندگی آدمایی که فقط تحصیل کردند که مدرک بگیرند به نظرم کسل کننده بود
+، هر روزانجام کارهای تکراری تو یه زمان مشخص ، درست مثل ماشینی که یک سری
+داده ی محدود براش تعریف شده باشه چون هیچوقت سعی نکرده بودن چیزای جدید
+یاد بگیرن . تو همون روزا تصمیممو گرفتم که  برای خودم یه شغل پرهیجان و متفاوتی که
+هر روزش میتونه یه تجربه ی تازه باشه و چیزای جدید ازش یاد بگیرم ، دست و پا کنم یه
+شغلی که حتی تو خونه هم میشه ازش درامد کسب کنی ، یه شغلی که اونقدر گستردس
+که میدونی هیچوقت بیکار نمیمونی و با اختلاف درامد خیلی خوبی هم داره اگه راهشو
+بتونی پیدا کنی ، فقط کافیه عاشقش باشی.
+کامپیوتر !!! چی میتونه برای من هیجان انگیزتر از این باشه ؟!
+همین شد که پا به دانشگاه گذاشتم و کامپیوتر رو انتخاب کردم 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/royasafari/SOP.royasafari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+</body>
