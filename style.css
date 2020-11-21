@@ -29,12 +29,6 @@ span:nth-child(1){
     text-align: center;
 
 }/*class_style*/
-span:nth-child(2){
-    display: block;
-    font-size: 55px;
-    font-weight:bolder;
-    margin:0 0 3% 0 ;
-}/*class_style*/
 <!-- -->
 @font-face {
     font-family: 'IRANSansWeb';
