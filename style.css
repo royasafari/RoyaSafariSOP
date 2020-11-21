@@ -18,19 +18,19 @@ body {
 }
 span{
     display: block;
-    font-size: 64px;
+    font-size: 28px;
     margin: 35px 0  35px 0  ;
 
 }/*class_style*/
 span:nth-child(1){
     display: block;
-    font-size: 64px;
+    font-size: 28px;
     text-align: center;
 
 }/*class_style*/
 span:nth-child(2){
     display: block;
-    font-size: 64px;
+    font-size: 28px;
     margin:0 0 3% 0 ;
 }/*class_style*/
 <!-- -->
