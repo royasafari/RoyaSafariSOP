@@ -1,4 +1,3 @@
-<div dir="rtl">
 <!doctype html>
 <html lang="en">
 <head>
@@ -30,5 +29,4 @@
 </span>
 </div>
 </body>
- </div>
 
