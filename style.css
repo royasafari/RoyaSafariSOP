@@ -18,14 +18,14 @@ body {
 }
 span{
     display: block;
-    font-size: 28px;
+    font-size: 25px;
     margin: 35px 0  35px 0  ;
 
 }/*class_style*/
 span:nth-child(1){
     display: block;
     font-weight:bolder;
-    font-size: 55px;
+    font-size: 50px;
     text-align: center;
 
 }/*class_style*/
